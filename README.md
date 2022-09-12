@@ -7,5 +7,9 @@
 This repository is about how to do a Market Basket Analysis, how we can use a HeatMap to gain insight from the data and gain information from the data. 
 
 But first, what is __Basket Market Analysis__?
-Its a data mining technique used to 
+Its a data mining technique used to analyze transactions and identifies items that are commonly purchased together. What can the supermarket do to with this information? 
+
+The supermarket could make more informed business decisions.
+* Layout of the items in the store
+* How to bundle items together into discounts
  
