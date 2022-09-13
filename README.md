@@ -18,7 +18,7 @@ What is the purpose of Generating __Recommendation__?
 Using the __Association Rules__ we generate product recommendations based on the items a customer has purchased and how to efficiently plan discounts based around frequently bought together items.
 
 How this helps the business and customers?
-The applications have potential to increase revenue for the business while delivering a better experiencec for customers. 
+The applications have potential to increase revenue for the business while delivering a better experience for customers. 
 
 
 
