@@ -15,7 +15,7 @@ The supermarket could make more informed business decisions.
  
 The heatmap helps you to immediately see which association rules have the highest life values based on the darkness of the shading. From the visualization, we can state with high degree of certainty that a customer who buys milk is also likely to buy eggs. Buying pasta also buys eggs, backed strongly by lift metric.
 
-What is the purpose of Generating __Rcommendation__?
+What is the purpose of Generating __Recommendation__?
 
 Using the __Association Rules__ we generate product recommendations based on the items a customer has purchased and how to efficiently plan discounts based around frequently bought together items.
 
